@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UploadController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,5 +15,25 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('index');
+})->name('index');
+
+Route::get('/landing', function () {
+    return view('landingpage');
+})->name('landing');
+
+Route::get('/details', function () {
+    return view('details');
+})->name('details');
+
+Route::get('/story', function () {
+    return view('story');
+})->name('story');
+
+// simple placeholder for RSVP (replace with real view when ready)
+Route::get('/rsvp', function () {
+    return response('RSVP page placeholder', 200);
+})->name('rsvp');
+
+Route::get('/gallery', [UploadController::class, 'index'])->name('gallery');
+Route::post('/gallery/upload', [UploadController::class, 'store'])->name('gallery.upload');
