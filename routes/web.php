@@ -30,10 +30,5 @@ Route::get('/story', function () {
     return view('story');
 })->name('story');
 
-// simple placeholder for RSVP (replace with real view when ready)
-Route::get('/rsvp', function () {
-    return response('RSVP page placeholder', 200);
-})->name('rsvp');
-
 Route::get('/gallery', [UploadController::class, 'index'])->name('gallery');
 Route::post('/gallery/upload', [UploadController::class, 'store'])->name('gallery.upload');

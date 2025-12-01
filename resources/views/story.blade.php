@@ -640,7 +640,7 @@
     <!-- Header Banner -->
     <div class="header-banner">
         <div class="header-content">
-            <h1 class="header-title">Our Love Story</h1>
+            <h1 class="header-title">Our Prenup Photos</h1>
             <div class="couple-names">
                 <span class="s-text1">J</span>herom 
                 <span style="text-transform:lowercase; font-size: 0.6em;">and</span> 
@@ -653,49 +653,51 @@
     <div class="story-container">
         <!-- How We Met -->
         <div class="story-section">
-            <h2 class="story-title">How We Met</h2>
+            <h2 class="story-title">A Paradise Made for Two</h2>
             <p class="story-text">
-                Our story began on a beautiful summer day when fate brought us together. 
-                What started as a chance encounter soon blossomed into something extraordinary. 
-                From that moment, we knew our lives would never be the same.
+               Before the vows and the celebration, there’s this moment—just the two of us, pausing to take it all in.
+               These photos reflect our story as it is now: comfortable, grounded, and full of quiet joy.
+               No grand gestures, no perfect poses—just the two of us choosing each other in the most genuine way.
+               We’re capturing this chapter not because it’s flawless, but because it’s real.
             </p>
         </div>
 
         <!-- Grid Gallery 1 -->
         <div class="polaroid-gallery">
             <div class="polaroid">
-                <img src="{{ asset('res/1.png') }}" alt="Our first meeting">
+                <img src="{{ asset('res/25-ok.jpg') }}" alt="Our first meeting">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/2.png') }}" alt="First date">
+                <img src="{{ asset('res/5-ok.jpg') }}" alt="First date">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/3.jpg') }}" alt="Early days">
+                <img src="{{ asset('res/67-ok.jpg') }}" alt="Early days">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/1.png') }}" alt="Happy moments">
+                <img src="{{ asset('res/16-ok.png') }}" alt="Happy moments">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/2.png') }}" alt="Getting to know">
+                <img src="{{ asset('res/21-ok.jpg') }}" alt="Getting to know">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/3.jpg') }}" alt="First adventure">
+                <img src="{{ asset('res/10-ok.jpg') }}" alt="First adventure">
                 <div class="polaroid-caption"><br></div>
             </div>
         </div>
 
         <!-- First Year -->
         <div class="story-section">
-            <h2 class="story-title">Our First Year</h2>
+            <h2 class="story-title">Love Reaching New Heights</h2>
             <p class="story-text">
-                Every moment spent together felt like magic. We discovered shared dreams, 
-                laughed until our sides hurt, and supported each other through everything. 
-                Our love grew stronger with each passing day.
+                There was a stillness on that mountain that made everything feel softer—like the world paused long enough for us to take it in.
+                Surrounded by open sky and endless green, we felt present in a way we hadn’t in a long time.
+                These photos remind us of that moment: calm, connected, and certain about the life we’re building together.
+                A quiet place, just the two of us, with forever somehow feeling closer than before.
             </p>
         </div>
 
@@ -703,78 +705,79 @@
         <div class="collage-section">
             <div class="collage-container">
                 <div class="collage-item featured">
-                    <img src="{{ asset('res/2.png') }}" alt="Featured Memory">
+                    <img src="{{ asset('res/42-ok.png') }}" alt="Featured Memory">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/3.jpg') }}" alt="Memory 2">
+                    <img src="{{ asset('res/39-ok.png') }}" alt="Memory 2">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/1.png') }}" alt="Memory 3">
+                    <img src="{{ asset('res/27-ok.png') }}" alt="Memory 3">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/2.png') }}" alt="Memory 4">
+                    <img src="{{ asset('res/33-ok.png') }}" alt="Memory 4">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/3.jpg') }}" alt="Memory 5">
+                    <img src="{{ asset('res/60-ok.png') }}" alt="Memory 5">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/2.png') }}" alt="Memory 7">
+                    <img src="{{ asset('res/51-ok.png') }}" alt="Memory 7">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/3.jpg') }}" alt="Memory 8">
+                    <img src="{{ asset('res/29-ok.png') }}" alt="Memory 8">
                 </div>
                 <div class="collage-item featured">
-                    <img src="{{ asset('res/1.png') }}" alt="Featured Memory 2">
+                    <img src="{{ asset('res/49-ok.png') }}" alt="Featured Memory 2">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/2.png') }}" alt="Memory 9">
+                    <img src="{{ asset('res/55-ok.png') }}" alt="Memory 9">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/3.jpg') }}" alt="Memory 10">
+                    <img src="{{ asset('res/48-ok.jpg') }}" alt="Memory 10">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/1.png') }}" alt="Memory 11">
+                    <img src="{{ asset('res/41-ok.png') }}" alt="Memory 11">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/2.png') }}" alt="Memory 12">
+                    <img src="{{ asset('res/57-ok.png') }}" alt="Memory 12">
                 </div>
             </div>
         </div>
 
         <!-- Looking Forward -->
         <div class="story-section">
-            <h2 class="story-title">Forever Starts Now</h2>
+            <h2 class="story-title">Where Forever Begins</h2>
             <p class="story-text">
-                As we stand on the threshold of forever, we're grateful for every moment that brought us here. 
-                Our love story is just beginning, and we can't wait to share this special day with all of you. 
-                Thank you for being part of our journey.
+                As we stand on the threshold of forever, we carry with us the memories, lessons, and laughter that have defined our journey so far.
+                Our love story is still unfolding, and we are thrilled to share this moment with all of you who have supported, encouraged, and celebrated us along the way.
+                Thank you for being part of our lives, and for helping us step into this new chapter with hope, joy, and hearts wide open.
+                The adventure has only just begun, and we can’t wait to see where it takes us together.
             </p>
         </div>
 
         <!-- Scattered Gallery -->
         <div class="scattered-gallery">
             <div class="polaroid-scattered p1">
-                <img src="{{ asset('res/2.png') }}" alt="Adventure together">
+                <img src="{{ asset('res/47-ok.png') }}" alt="Adventure together">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p2">
-                <img src="{{ asset('res/3.jpg') }}" alt="Travel memories">
+                <img src="{{ asset('res/68-ok.jpg') }}" alt="Travel memories">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p3">
-                <img src="{{ asset('res/1.png') }}" alt="Celebrations">
+                <img src="{{ asset('res/50-ok.png') }}" alt="Celebrations">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p4">
-                <img src="{{ asset('res/2.png') }}" alt="Quiet moments">
+                <img src="{{ asset('res/62-ok.jpg') }}" alt="Quiet moments">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p5">
-                <img src="{{ asset('res/3.jpg') }}" alt="Love grows">
+                <img src="{{ asset('res/69-ok.png') }}" alt="Love grows">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p6">
-                <img src="{{ asset('res/1.png') }}" alt="Forever love">
+                <img src="{{ asset('res/34-ok.png') }}" alt="Forever love">
                 <div class="polaroid-caption"><br></div>
             </div>
         </div>

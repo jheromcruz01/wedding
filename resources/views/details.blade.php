@@ -496,6 +496,7 @@
         <!-- Wedding Timeline -->
         <div class="detail-section">
             <h2 class="section-title">Wedding Timeline</h2>
+       
             <p class="section-subtitle">Order of Events</p>
             <div class="timeline">
                 <div class="timeline-item">
@@ -540,6 +541,10 @@
                         <div class="timeline-description">Farewell and thank you</div>
                     </div>
                 </div>
+                    <p class="section-content">
+                    Kindly arrive on time as the ceremony will begin promptly.
+                     Our celebration will be held outdoors, so we recommend dressing comfortably and bringing anything you may need to stay cool and comfortable.
+                    </p>
             </div>
         </div>
 
@@ -548,7 +553,8 @@
             <h2 class="section-title">Dress Code</h2>
             <p class="section-subtitle">Formal Attire</p>
             <p class="section-content" style="margin-bottom: 20px;">
-                We kindly request our guests to dress in formal attire. The only color we ask is <strong>black</strong>.
+                We kindly request our guests to dress in formal attire. Please refrain from wearing denim jeans, shorts, shirts and slippers.
+                The only color we ask is <strong>black</strong>. No other color please.
             </p>
             <div class="dress-code-colors">
                 <div class="color-circle" style="background-color: black;"></div>
@@ -573,7 +579,7 @@
                 <div class="parent-column">
                     <h3>PARENTS OF THE GROOM</h3>
                     <p>
-                        Mr. Joseph Cruz<br>
+                        Mr. Joseph L. Cruz<br>
                         Mrs. Tina M. Cruz
                     </p>
                 </div>
@@ -592,25 +598,27 @@
                 <div class="sponsor-column">
                     <div class="sponsor-role">NINONG</div>
                     <div class="sponsor-names">
-                        PLT General Bernard Banac<br>
-                        Kapt. Alfie Gawaran<br>
-                        Mr. Gilbert Gawaran<br>
-                        Mr. Ronaldo Franco<br>
-                        Engr. Ronel Martin<br>
-                        Engr. Bernardo Lagazo<br>
+                        PLT General Bernard M. Banac<br>
+                        Kapt. Alfie O. Gawaran<br>
+                        Mr. Gilbert G. Gawaran<br>
+                        Mr. Ronaldo G. Franco<br>
+                        Engr. Ronel C. Martin<br>
+                        Engr. Bernardo A. Lagazo<br>
+                        Mr. Cesar Cobero<br>
                         Mr. Joel Velasco
                     </div>
                 </div>
                 <div class="sponsor-column">
                     <div class="sponsor-role">NINANG</div>
                     <div class="sponsor-names">
-                        MRS. Eloisa Banac<br>
-                        MRS. Mau Cuevas<br>
-                        MRS. Julie Alamo<br>
-                        MRS. Michelle Regpala<br>
-                        MRS. Perlita Merceder<br>
-                        MRS. Karen Miranda<br>
-                        MRS. Remy Cobero
+                        MRS. Eloisa S. Banac<br>
+                        Mrs. Edith L. Gawaran<br>
+                        MRS. Julie N. Alamo<br>
+                        MRS. Michelle K. Regpala<br>
+                        MRS. Perlita A. Merceder<br>
+                        MRS. Karen M. Miranda<br>
+                        MRS. Irene M. Garcia<br>
+                        MRS. Maureen G. Cuevas
                     </div>
                 </div>
             </div>
@@ -619,7 +627,7 @@
             <div class="two-column-grid">
                 <div class="sponsor-column">
                     <div class="sponsor-role">BEST MAN</div>
-                    <div class="sponsor-names">Mr. Miguel Pedro Nebalasca</div>
+                    <div class="sponsor-names">Mr. Miguel Pedro Q. Nebalasca</div>
                 </div>
                 <div class="sponsor-column">
                     <div class="sponsor-role">MAID OF HONOR</div>
@@ -635,17 +643,17 @@
                 <div class="sponsor-column">
                     <div class="sponsor-role">GROOMSMEN</div>
                     <div class="sponsor-names">
-                        Mr. Rhence Domingo<br>
-                        Mr. Rodrick Saur<br>
-                        Mr. Joemarie Saur
+                        Mr. Mark Rhence Domingo<br>
+                        Mr. Rodrick I. Saur<br>
+                        Mr. Joemarie I. Saur
                     </div>
                 </div>
                 <div class="sponsor-column">
                     <div class="sponsor-role">BRIDESMAIDS</div>
                     <div class="sponsor-names">
-                        Engr. Berlin Guerra<br>
-                        Ms. Mae Ann Urdaneta<br>
-                        Ms. Donalyn Daquel
+                        Engr. Berlin B. Guerra<br>
+                        Ms. Mae Anne L. Urdaneta<br>
+                        Ms. Donalyn P. Daquel
                     </div>
                 </div>
             </div>
@@ -655,21 +663,21 @@
                 <div class="sponsor-column">
                     <div class="sponsor-role">CANDLE<br>SPONSORS</div>
                     <div class="sponsor-names">
-                        Mr. Kurt Albaniel<br>
+                        Mr. Kurt Daryl J. Albaniel<br>
                         Ms. Anne Claudine M. Cruz
                     </div>
                 </div>
                 <div class="sponsor-column">
                     <div class="sponsor-role">VEIL<br>SPONSORS</div>
                     <div class="sponsor-names">
-                        Mr. Aeron Abellanosa<br>
+                        Mr. Aeron M. Abellanosa<br>
                         Ms. Queennie Angeline F. Arizabal
                     </div>
                 </div>
                 <div class="sponsor-column">
                     <div class="sponsor-role">CORD<br>SPONSORS</div>
                     <div class="sponsor-names">
-                        Mr. Ron Rivera <br>
+                        Mr. Ron M. Rivera <br>
                         Ms. Catherine A. Vallecera
                     </div>
                 </div>
@@ -680,29 +688,29 @@
                 <div class="single-role">
                     <div class="single-role-title">RING BEARER</div>
                     <div class="single-role-names">
-                        LIAM GABRIELLE CRUZ
+                        LIAM GABRIELLE A. CRUZ
                     </div>
                 </div>
                 <div class="single-role">
                     <div class="single-role-title">HERE COMES THE BRIDE</div>
                     <div class="single-role-names">
-                        JAYDEN CRUZ
+                        JAYDEN A. CRUZ
                     </div>
                 </div>
                 <div class="single-role">
                     <div class="single-role-title">COIN BEARER</div>
-                    <div class="single-role-names">ALLYSSA MAE SORIANO</div>
+                    <div class="single-role-names">ALLYSSA MAE M. SORIANO</div>
                 </div>
                 <div class="single-role">
                     <div class="single-role-title">BIBLE BEARER</div>
-                    <div class="single-role-names">CRYRILL JADE REGULACION</div>
+                    <div class="single-role-names">CRYRILL JADE C. REGULACION</div>
                 </div>
                 <div class="single-role">
                     <div class="single-role-title">FLOWER GIRLS</div>
                     <div class="single-role-names">
-                        FELICITY GOMEZ<br>
-                        KAYLA MIRANDA<br>
-                        CHICHI AGPAOA
+                        FELICITY A. GOMEZ<br>
+                        KAYLA M. MIRANDA<br>
+                        LAIL AMARA A. AGPAOA
                     </div>
                 </div>
             </div>
@@ -749,15 +757,19 @@
                 </div>
                 <div class="faq-item">
                     <h3 class="faq-question">Q: When is the RSVP deadline?</h3>
-                    <p class="faq-answer">The RSVP deadline is May 20, 2026. We kindly ask that you RSVP by this date to ensure we can make all the necessary arrangements for your presence.</p>
+                    <p class="faq-answer">The RSVP deadline is January 3, 2026. We kindly ask that you RSVP by this date to ensure we can make all the necessary arrangements for your presence.</p>
                 </div>
                 <div class="faq-item">
                     <h3 class="faq-question">Q: Can I bring my children?</h3>
                     <p class="faq-answer">As much as we adore children, we've planned an adult-only celebration to ensure everyone can fully enjoy the festivities. We appreciate your understanding and look forward to celebrating with you!</p>
                 </div>
                 <div class="faq-item">
+                    <h3 class="faq-question">Q: Is the wedding indoors or outdoors?</h3>
+                    <p class="faq-answer">Both the ceremony and reception will be held outdoors in a beautiful garden setting.</p>
+                </div>
+                <div class="faq-item">
                     <h3 class="faq-question">Q: Will there be enough parking space?</h3>
-                    <p class="faq-answer">Yes, there will be ample parking available at both of our venues.</p>
+                    <p class="faq-answer">Yes, there will be ample parking available at our venues.</p>
                 </div>
             </div>
         </div>
