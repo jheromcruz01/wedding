@@ -216,7 +216,7 @@
             // Redirect to landing page
             setTimeout(function() {
                 window.location.href = '{{ route('landing') }}';
-            }, 1000);
+            }, 300);
         });
 
         // Prevent double-click issues

@@ -602,7 +602,7 @@
             </div>
 
             <!-- RSVP Card -->
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0FEVRhG7xE4SeiBVkmNHFjQ1lgppl87JTkdjwXQE_meIedQ/viewform" id="rsvpLink" target="_blank">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0FEVRhG7xE4SeiBVkmNHFjQ1lgppl87JTkdjwXQE_meIedQ/viewform" id="rsvpLink">
                 <div class="rsvp-card">
                     <div class="rsvp-text">
                         <p class="rsvp-small">KINDLY</p>
@@ -722,7 +722,7 @@
 
             setTimeout(function() {
                 window.location.href = href; // redirect after delay
-            }, 1500); // delay in milliseconds (500ms = 1.5 seconds)
+            }, 500); // delay in milliseconds (500ms = 1.5 seconds)
         });
 
         document.getElementById('rsvpLink').addEventListener('click', function(e) {
@@ -733,7 +733,7 @@
 
             setTimeout(function() {
                 window.location.href = href; // redirect after delay
-            }, 1500); // delay in milliseconds (500ms = 1.5 seconds)
+            }, 500); // delay in milliseconds (500ms = 1.5 seconds)
         });
 
         document.getElementById('storyLink1').addEventListener('click', function(e) {
@@ -744,7 +744,7 @@
 
             setTimeout(function() {
                 window.location.href = href; // redirect after delay
-            }, 1500); // delay in milliseconds (500ms = 1.5 seconds)
+            }, 500); // delay in milliseconds (500ms = 1.5 seconds)
         });
         document.getElementById('storyLink2').addEventListener('click', function(e) {
             e.preventDefault(); // prevent immediate navigation
@@ -754,7 +754,7 @@
 
             setTimeout(function() {
                 window.location.href = href; // redirect after delay
-            }, 1500); // delay in milliseconds (500ms = 1.5 seconds)
+            }, 500); // delay in milliseconds (500ms = 1.5 seconds)
         });
         document.getElementById('storyLink3').addEventListener('click', function(e) {
             e.preventDefault(); // prevent immediate navigation
@@ -764,7 +764,7 @@
 
             setTimeout(function() {
                 window.location.href = href; // redirect after delay
-            }, 1500); // delay in milliseconds (500ms = 1.5 seconds)
+            }, 500); // delay in milliseconds (500ms = 1.5 seconds)
         });
     </script>
 </body>

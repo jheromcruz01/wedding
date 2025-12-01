@@ -812,7 +812,7 @@
                 setTimeout(function() {
                     document.getElementById('loadingOverlay').style.display = 'none';
                 }, 500);
-            }, 1500);
+            }, 500);
         });
 
         // Animate sections on scroll

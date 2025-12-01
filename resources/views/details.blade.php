@@ -797,7 +797,7 @@
                 setTimeout(function() {
                     document.getElementById('loadingOverlay').style.display = 'none';
                 }, 500);
-            }, 1500); // 1.5 second delay
+            }, 500); // 1.5 second delay
         });
 
         // Animate sections on scroll
