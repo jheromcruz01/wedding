@@ -665,27 +665,27 @@
         <!-- Grid Gallery 1 -->
         <div class="polaroid-gallery">
             <div class="polaroid">
-                <img src="{{ asset('res/25-ok.jpg') }}" alt="Our first meeting">
+                <img src="{{ asset('res/4.webp') }}" alt="Our first meeting">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/5-ok.jpg') }}" alt="First date">
+                <img src="{{ asset('res/5.webp') }}" alt="First date">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/67-ok.jpg') }}" alt="Early days">
+                <img src="{{ asset('res/6.webp') }}" alt="Early days">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/16-ok.png') }}" alt="Happy moments">
+                <img src="{{ asset('res/7.webp') }}" alt="Happy moments">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/21-ok.jpg') }}" alt="Getting to know">
+                <img src="{{ asset('res/8.webp') }}" alt="Getting to know">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid">
-                <img src="{{ asset('res/10-ok.jpg') }}" alt="First adventure">
+                <img src="{{ asset('res/9.webp') }}" alt="First adventure">
                 <div class="polaroid-caption"><br></div>
             </div>
         </div>
@@ -705,40 +705,40 @@
         <div class="collage-section">
             <div class="collage-container">
                 <div class="collage-item featured">
-                    <img src="{{ asset('res/42-ok.png') }}" alt="Featured Memory">
+                    <img src="{{ asset('res/10.webp') }}" alt="Featured Memory">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/39-ok.png') }}" alt="Memory 2">
+                    <img src="{{ asset('res/11.webp') }}" alt="Memory 2">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/27-ok.png') }}" alt="Memory 3">
+                    <img src="{{ asset('res/12.webp') }}" alt="Memory 3">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/33-ok.png') }}" alt="Memory 4">
+                    <img src="{{ asset('res/13.webp') }}" alt="Memory 4">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/60-ok.png') }}" alt="Memory 5">
+                    <img src="{{ asset('res/14.webp') }}" alt="Memory 5">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/51-ok.png') }}" alt="Memory 7">
+                    <img src="{{ asset('res/15.webp') }}" alt="Memory 7">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/29-ok.png') }}" alt="Memory 8">
+                    <img src="{{ asset('res/16.webp') }}" alt="Memory 8">
                 </div>
                 <div class="collage-item featured">
-                    <img src="{{ asset('res/49-ok.png') }}" alt="Featured Memory 2">
+                    <img src="{{ asset('res/18.webp') }}" alt="Featured Memory 2">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/55-ok.png') }}" alt="Memory 9">
+                    <img src="{{ asset('res/17.webp') }}" alt="Memory 9">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/48-ok.jpg') }}" alt="Memory 10">
+                    <img src="{{ asset('res/19.webp') }}" alt="Memory 10">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/41-ok.png') }}" alt="Memory 11">
+                    <img src="{{ asset('res/20.webp') }}" alt="Memory 11">
                 </div>
                 <div class="collage-item">
-                    <img src="{{ asset('res/57-ok.png') }}" alt="Memory 12">
+                    <img src="{{ asset('res/21.webp') }}" alt="Memory 12">
                 </div>
             </div>
         </div>
@@ -757,27 +757,27 @@
         <!-- Scattered Gallery -->
         <div class="scattered-gallery">
             <div class="polaroid-scattered p1">
-                <img src="{{ asset('res/47-ok.png') }}" alt="Adventure together">
+                <img src="{{ asset('res/22.webp') }}" alt="Adventure together">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p2">
-                <img src="{{ asset('res/68-ok.jpg') }}" alt="Travel memories">
+                <img src="{{ asset('res/23.webp') }}" alt="Travel memories">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p3">
-                <img src="{{ asset('res/50-ok.png') }}" alt="Celebrations">
+                <img src="{{ asset('res/24.webp') }}" alt="Celebrations">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p4">
-                <img src="{{ asset('res/62-ok.jpg') }}" alt="Quiet moments">
+                <img src="{{ asset('res/25.webp') }}" alt="Quiet moments">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p5">
-                <img src="{{ asset('res/69-ok.png') }}" alt="Love grows">
+                <img src="{{ asset('res/27.webp') }}" alt="Love grows">
                 <div class="polaroid-caption"><br></div>
             </div>
             <div class="polaroid-scattered p6">
-                <img src="{{ asset('res/34-ok.png') }}" alt="Forever love">
+                <img src="{{ asset('res/26.webp') }}" alt="Forever love">
                 <div class="polaroid-caption"><br></div>
             </div>
         </div>

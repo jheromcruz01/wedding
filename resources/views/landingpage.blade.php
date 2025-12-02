@@ -631,21 +631,21 @@
         <div class="polaroid-section">
             <a href="{{ route('story') }}" id="storyLink1">
                 <div class="polaroid polaroid-1">
-                    <img src="{{ asset('res/1-ok.png') }}" alt="Couple Photo">
+                    <img src="{{ asset('res/1.webp') }}" alt="Couple Photo">
                     <div class="polaroid-caption">CLICK FOR</div>
                 </div>
             </a>
 
             <a href="{{ route('story') }}" id="storyLink2">
                 <div class="polaroid polaroid-2">
-                    <img src="{{ asset('res/3-ok.jpg') }}" alt="Couple Silhouette">
+                    <img src="{{ asset('res/2.webp') }}" alt="Couple Silhouette">
                     <div class="polaroid-caption">OUR PRENUP</div>
                 </div>
             </a>
 
             <a href="{{ route('story') }}" id="storyLink3">
                 <div class="polaroid polaroid-3">
-                    <img src="{{ asset('res/2-ok.png') }}" alt="Wedding Venue">
+                    <img src="{{ asset('res/3.webp') }}" alt="Wedding Venue">
                     <div class="polaroid-caption">PHOTOS</div>
                 </div>
             </a>
